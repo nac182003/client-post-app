@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   templateUrl: './footer-front.component.html',
   styleUrl: './footer-front.component.css'
 })
-export class FooterFront {
+export class FooterFrontComponent {
 
 }

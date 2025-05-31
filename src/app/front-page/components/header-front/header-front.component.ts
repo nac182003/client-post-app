@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   templateUrl: './header-front.component.html',
   styleUrl: './header-front.component.css'
 })
-export class HeaderFront {
+export class HeaderFrontComponent {
 
 }
